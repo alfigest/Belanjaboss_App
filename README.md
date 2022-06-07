@@ -1,11 +1,7 @@
 # aplikasi_eccomerce
 
-A new flutter module project.
 
-## Getting Started
+Create By : Alfi Naufal
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
+![Aplikasi-Blanjaboss-Ecommerce](https://drive.google.com/file/d/1z0Chawc4GWj9qZOCcIzk2TD0FEsTm9xY/view?usp=sharing)
 
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
